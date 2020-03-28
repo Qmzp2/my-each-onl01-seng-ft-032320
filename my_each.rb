@@ -7,6 +7,6 @@ def my_each(array)
   end
   
   array
-else puts "Hey! No block was given!"
+else print "Hey! Isn't this the same as the previous lab?!"
 end
 end
